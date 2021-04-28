@@ -8,3 +8,7 @@ I chose to examine this dataset because I believe that with data gathering and d
 
 # MVP
 My presentation highlights some of the significant differences between the identified groups in the dataset and the average response from a US high school student on the questionnaire. What is determined are that there are several areas which certain groups exhibit significantly higher response rates for risk behaviors than others.
+
+Link to presentation:
+
+https://docs.google.com/presentation/d/1kNCPJAuB-P2tqeTa44Df8rN9HbNBDSDI8_GHk8sKsGs/edit?usp=sharing
